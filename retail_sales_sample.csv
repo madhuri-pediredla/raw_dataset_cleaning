@@ -1,0 +1,202 @@
+Order ID,Order Date,Customer Name,Product,Category,Quantity,Unit Price,Total,Country
+1000,2023/09/19,Nina,Laptop,Electornics,2,601.0,1202.0, Usa
+1001,2023-10-11,Bob,Laptop ,electron ics,5,1467.0,7335.0, Canada
+1002,2023/08/10,Mona,Phone,Electronics,5,492.0,2460.0,Canada
+1003,28/10/2023,Rachel, Monitor ,Electronics ,2,705.0,1410.0,usa
+1004,, Grace,Tablet,electronic s,3,1223.0,3669.0,USA
+1005,03-09-2023,Eve,Printer,Electronics,5,1221.0,6105.0, usa
+1006,2023-04-24,Charlie,Laptop,electronic s,3,1240.0,3720.0, Canada
+1007,2023-09-25,Sam,Laptop,electronic s,1,769.0,769.0,Canada
+1008,, David,Keyboard,Electornics,, 715.0,, Canada
+1009,2023/04/12,Oscar,Phone,electron ics,4,1197.0,4788.0,USA
+1010,2023-07-11,Leo,Printer,electronic s,3,518.0,1554.0,CANADA
+1011,2023-04-15,Hannah,Laptop,Electronics,5,1404.0,7020.0, Canada
+1012,2023/12/20,David,Tablet,electronic s,4,706.0,2824.0,Canada
+1013,07/04/2023,Grace,Monitor,Electornics,2,897.0,1794.0, usa
+1014,2023/12/12,Karen,Tablet,electronic s,5,1017.0,5085.0, usa
+1015,2023/03/13,Karen,Keyboard,electronic s,3,1045.0,3135.0, usa
+1016,2023/02/13,Sam,Tablet,electronic s,1,973.0,973.0,Canada
+1017,2023-08-18,Charlie,Tablet,Electronics,3,660.0,1980.0, usa
+1018,2023/05/16,Nina,Laptop,electronic s,4,1368.0,5472.0,Usa
+1019,2023-11-30,Eve,Tablet,electronic s,4,1084.0,4336.0,Canada
+1020,, Leo,Phone,electronic s,2,1174.0,2348.0,Canada
+1021,2023/12/19,Frank,Laptop,electronic s,2,349.0,698.0,Canada
+1022,2023-04-18,Mona,Monitor,electronic s,,715.0,,usa
+1023,2023/09/12,Grace,Phone,electronic s,2,1086.0,2172.0,CANADA
+1024,2023-08-02,Karen,Keyboard,electronic s,2,506.0,1012.0,usa
+1025,2023/07/28,Hannah,Laptop,electronic s,1,1391.0,1391.0,usa
+1026,12/02/2023,Paul,Printer,electronic s,1,648.0,648.0,Canada
+1027,2023/09/15,Nina,Keyboard,Electronics,1,1114.0,1114.0,Canada
+1028,2023/07/30,Karen,Tablet,Electronics,3,938.0,2814.0,Canada
+1029,2023/06/08,Karen,Laptop,Electronics,4,1051.0,4204.0,usa
+1030,2023/01/17,Bob,Tablet,electronic s,4,1257.0,5028.0,usa
+1031,04-12-2023,Nina,Laptop,electronic s,1,943.0,943.0, Canada
+1032,2023-07-09,Karen,Monitor,electronic s,2,615.0,1230.0,CANADA
+1033,2023-02-14,Hannah,Laptop,electronic s,1,512.0,512.0,usa
+1034,03/01/2023,Frank,Phone,electronic s,4,1419.0,5676.0, Usa
+1035,,Grace,Monitor,Electronics,2,480.0,960.0,usa
+1036,2023/04/20,Paul,Phone,Electronics,1,1325.0,1325.0,CANADA
+1037,2023-09-17,Mona,Printer,Electronics,2,912.0,1824.0, usa
+1038,01-11-2023,Frank,Keyboard,Electronics,2,1052.0,2104.0,usa
+1039,2023-07-13,Nina,Phone,Electronics,4,837.0,3348.0,CANADA
+1040,2023/06/10,Eve,Tablet,Electronics,1,1350.0,1350.0, Canada
+1041,,Charlie,Laptop,electronic s,,1290.0,, usa
+1042,2023-03-29,Karen,Laptop,Electornics,3,1202.0,3606.0, usa
+1043,2023-04-08,Paul,Tablet,electronic s,3,1021.0,3063.0,Canada
+1044,2023-07-15,Rachel,Monitor,Electronics,5,782.0,3910.0,usa
+1045,2023-11-24,Frank,Laptop,electronic s,4,870.0,3480.0,CANADA
+1046,2023/10/17,Karen,Laptop,Electronics,5,915.0,4575.0,CANADA
+1047,04-05-2023,David,Monitor,electronic s,1,937.0,937.0, usa
+1048,2023/01/09,Leo,Tablet,electronic s,4,813.0,3252.0,usa
+1049,,Oscar,Keyboard,electronic s,,810.0,,Canada
+1050,2023-04-23,Eve,Keyboard,electronic s,1,564.0,564.0,CANADA
+1051,2023/03/20,Bob,Laptop,Electronics,3,947.0,2841.0,usa
+1052,01-08-2023,Nina,Printer,electronic s,5,915.0,4575.0,CANADA
+1053,2023-02-11,Frank,Tablet,electronic s,4,924.0,3696.0,usa
+1054,2023/06/19,Rachel,Monitor,electronic s,4,1174.0,4696.0,usa
+1055,,David,Phone,electronic s,2,1021.0,2042.0,Canada
+1056,2023/11/06,Mona,Laptop,electronic s,5,1295.0,6475.0,CANADA
+1057,03/10/2023,Oscar,Tablet,electronic s,4,907.0,3628.0,Canada
+1058,2023-10-21,Nina,Monitor,electronic s,1,628.0,628.0,usa
+1059,2023-02-28,Jack,Tablet,electronic s,3,1214.0,3642.0,usa
+1060,2023-03-05,Tina,Laptop,electronic s,5,873.0,4365.0,CANADA
+1061,2023/05/01,Karen,Phone,electronic s,2,974.0,1948.0,Usa
+1062,07/06/2023,Frank,Keyboard,electronic s,3,828.0,2484.0,Canada
+1063,,Tina,Phone,electronic s,1,1452.0,1452.0,usa
+1064,2023-09-07,Nina,Monitor,electronic s,3,661.0,1983.0,Canada
+1065,2023-05-26,Oscar,Tablet,electronic s,1,1121.0,1121.0,usa
+1066,2023/12/05,Grace,Monitor,electronic s,5,648.0,3240.0,CANADA
+1067,2023-10-29,Paul,Tablet,electronic s,2,959.0,1918.0,usa
+1068,01/03/2023,Charlie,Laptop,electronic s,2,1436.0,2872.0,usa
+1069,2023-03-18,Leo,Printer,electronic s,4,1392.0,5568.0,USA
+1070,2023/10/09,Oscar,Laptop,electronic s,1,588.0,588.0,Canada
+1071,2023-06-11,Mona,Mouse,electronic s,5,1122.0,5610.0,usa
+1072,2023/09/08,Hannah,Laptop,electronic s,3,944.0,2832.0,usa
+1073,03/07/2023,Charlie,Monitor,electronic s,2,784.0,1568.0,CANADA
+1074,,Tina,Tablet,electronic s,,841.0,,usa
+1075,2023/11/10,Paul,Phone,electronic s,1,678.0,678.0,Canada
+1076,2023/03/07,Bob,Laptop,electronic s,5,882.0,4410.0,CANADA
+1077,2023-04-30,Karen,Tablet,electronic s,1,1324.0,1324.0,CANADA
+1078,01-01-2023,Nina,Tablet,electronic s,1,1423.0,1423.0,Canada
+1079,2023-10-05,Eve,Laptop,electronic s,3,675.0,2025.0,Canada
+1080,,Jack,Monitor,electronic s,1,1250.0,1250.0,usa
+1081,2023/06/25,Frank,Tablet,electronic s,2,903.0,1806.0,Usa
+1082,2023-07-23,Oscar,Printer,electronic s,4,1006.0,4024.0,usa
+1083,2023/12/22,Grace,Laptop,electronic s,3,1285.0,3855.0,Canada
+1084,2023/08/08,Leo,Tablet,electronic s,5,1157.0,5785.0,Canada
+1085,2023-05-18,Rachel,Tablet,electronic s,3,1037.0,3111.0,usa
+1086,2023-11-14,Hannah,Phone,electronic s,2,1129.0,2258.0,USA
+1087,2023-08-14,Nina,Laptop,electronic s,3,874.0,2622.0,Canada
+1088,,Tina,Monitor,electronic s,5,1322.0,6610.0,usa
+1089,2023/07/03,Frank,Tablet,electronic s,4,891.0,3564.0,Canada
+1090,2023-12-03,Karen,Keyboard,electronic s,1,1251.0,1251.0,Canada
+1091,04/06/2023,Mona,Laptop,electronic s,4,979.0,3916.0,Canada
+1092,2023-06-22,Bob,Tablet,electronic s,3,951.0,2853.0,usa
+1093,2023/02/22,Eve,Phone,electronic s,5,1142.0,5710.0,CANADA
+1094,,Oscar,Printer,electronic s,1,1080.0,1080.0,Canada
+1095,2023/09/02,Grace,Laptop,electronic s,1,1186.0,1186.0,CANADA
+1096,2023/07/24,Rachel,Laptop,electronic s,2,1466.0,2932.0,usa
+1097,2023-08-29,Bob,Tablet,electronic s,3,948.0,2844.0,usa
+1098,2023-11-03,Jack,Tablet,electronic s,5,1398.0,6990.0,CANADA
+1099,2023-06-01,Charlie,Laptop,electronic s,3,1233.0,3699.0,usa
+1100,2023/03/22,Tina,Tablet,electronic s,1,1089.0,1089.0,usa
+1101,02-10-2023,Karen,Phone,electronic s,2,843.0,1686.0,CANADA
+1102,,Charlie,Laptop,electronic s,2,1211.0,2422.0,Canada
+1103,2023-12-28,Nina,Monitor,electronic s,1,1057.0,1057.0,usa
+1104,2023/01/04,Grace,Tablet,electronic s,4,1402.0,5608.0,usa
+1105,2023/02/20,David,Phone,electronic s,3,1355.0,4065.0,CANADA
+1106,2023/09/22,Hannah,Laptop,electronic s,1,1126.0,1126.0,usa
+1107,,Karen,Laptop,electronic s,1,1272.0,1272.0,Canada
+1108,2023/04/13,Paul,Laptop,electronic s,2,1367.0,2734.0,USA
+1109,2023-02-05,Frank,Phone,electronic s,3,1120.0,3360.0,Canada
+1110,2023/10/02,David,Printer,electronic s,2,1108.0,2216.0,usa
+1111,2023-04-04,Tina,Monitor,electronic s,5,1382.0,6910.0,usa
+1112,,Oscar,Tablet,electronic s,4,1018.0,4072.0,CANADA
+1113,2023/11/11,Nina,Laptop,electronic s,2,1259.0,2518.0,usa
+1114,2023-10-13,Hannah,Monitor,electronic s,1,899.0,899.0,usa
+1115,02-08-2023,Karen,Tablet,electronic s,2,1095.0,2190.0,usa
+1116,2023/05/29,Rachel,Phone,electronic s,3,1390.0,4170.0,USA
+1117,,Grace,Keyboard,electronic s,1,1005.0,1005.0,CANADA
+1118,2023-02-01,David,Tablet,electronic s,4,1151.0,4604.0,usa
+1119,2023/06/14,Leo,Laptop,electronic s,2,1020.0,2040.0,USA
+1120,2023-03-10,Frank,Phone,electronic s,1,1183.0,1183.0,usa
+1121,2023-07-04,Tina,Tablet,electronic s,4,1083.0,4332.0,CANADA
+1122,,Oscar,Phone,electronic s,2,1096.0,2192.0,usa
+1123,2023/03/26,Nina,Monitor,electronic s,1,1090.0,1090.0,Canada
+1124,2023/10/23,Grace,Laptop,electronic s,3,1410.0,4230.0,CANADA
+1125,04-07-2023,Hannah,Keyboard,electronic s,2,1153.0,2306.0,Canada
+1126,2023-12-30,Karen,Laptop,electronic s,4,1210.0,4840.0,CANADA
+1127,2023/01/06,Frank,Tablet,electronic s,3,1278.0,3834.0,CANADA
+1128,2023/08/26,Paul,Laptop,electronic s,5,1246.0,6230.0,usa
+1129,,Rachel,Laptop,electronic s,,1200.0,,Canada
+1130,2023-05-10,Charlie,Monitor,electronic s,1,1389.0,1389.0,CANADA
+1131,2023-03-21,David,Tablet,electronic s,4,1032.0,4128.0,usa
+1132,2023/11/15,Mona,Laptop,electronic s,1,1087.0,1087.0,CANADA
+1133,01/06/2023,Hannah,Phone,electronic s,3,1265.0,3795.0,CANADA
+1134,2023/09/10,Leo,Laptop,electronic s,2,1015.0,2030.0,usa
+1135,2023/04/01,Bob,Laptop,electronic s,2,1405.0,2810.0,Canada
+1136,2023/02/24,Tina,Keyboard,electronic s,1,1117.0,1117.0,usa
+1137,,Oscar,Tablet,electronic s,2,1088.0,2176.0,Canada
+1138,2023/12/08,Karen,Laptop,electronic s,3,1329.0,3987.0,usa
+1139,2023/07/06,Jack,Printer,electronic s,1,1152.0,1152.0,usa
+1140,2023-10-27,Paul,Monitor,electronic s,2,1260.0,2520.0,Canada
+1141,2023-09-13,Nina,Tablet,electronic s,5,943.0,4715.0,usa
+1142,2023-06-30,Hannah,Laptop,electronic s,4,1193.0,4772.0,usa
+1143,2023/08/06,Rachel,Tablet,electronic s,3,1357.0,4071.0,CANADA
+1144,,David,Phone,electronic s,,1230.0,,usa
+1145,2023-05-06,Eve,Laptop,electronic s,2,1042.0,2084.0,usa
+1146,2023-06-04,Bob,Keyboard,electronic s,3,1344.0,4032.0,CANADA
+1147,2023/11/20,Mona,Printer,electronic s,1,1231.0,1231.0,CANADA
+1148,2023/01/30,Hannah,Laptop,electronic s,1,1205.0,1205.0,usa
+1149,2023-07-20,Nina,Monitor,electronic s,4,1379.0,5516.0,Canada
+1150,2023/03/09,Oscar,Laptop,electronic s,5,1400.0,7000.0,usa
+1151,2023/04/07,Karen,Laptop,electronic s,3,1147.0,3441.0,usa
+1152,2023-10-19,Paul,Monitor,electronic s,2,1064.0,2128.0,Canada
+1153,2023-12-11,Charlie,Tablet,electronic s,1,995.0,995.0,CANADA
+1154,2023-06-02,Grace,Phone,electronic s,5,1034.0,5170.0,usa
+1155,,Jack,Laptop,electronic s,1,1277.0,1277.0,CANADA
+1156,01-05-2023,Eve,Tablet,electronic s,2,1213.0,2426.0,usa
+1157,2023/09/28,Hannah,Monitor,electronic s,3,1132.0,3396.0,usa
+1158,2023-11-12,Nina,Laptop,electronic s,4,1019.0,4076.0,Canada
+1159,2023/06/13,Karen,Tablet,electronic s,2,1297.0,2594.0,usa
+1160,2023-08-01,Tina,Phone,electronic s,5,1091.0,5455.0,CANADA
+1161,,Oscar,Laptop,electronic s,2,1388.0,2776.0,CANADA
+1162,2023/01/26,Bob,Tablet,electronic s,3,1050.0,3150.0,usa
+1163,2023-02-03,Leo,Keyboard,electronic s,1,1166.0,1166.0,CANADA
+1164,2023/05/27,Mona,Tablet,electronic s,5,1198.0,5990.0,usa
+1165,2023-07-07,David,Laptop,electronic s,2,1234.0,2468.0,CANADA
+1166,2023-09-14,Rachel,Phone,electronic s,1,1374.0,1374.0,usa
+1167,2023-03-17,Tina,Tablet,electronic s,4,1309.0,5236.0,CANADA
+1168,2023/11/01,Frank,Monitor,electronic s,3,987.0,2961.0,usa
+1169,2023/07/05,Jack,Laptop,electronic s,1,1175.0,1175.0,Canada
+1170,,Charlie,Tablet,electronic s,5,1128.0,5640.0,CANADA
+1171,2023/10/08,Hannah,Printer,electronic s,2,1220.0,2440.0,usa
+1172,2023-06-29,Oscar,Laptop,electronic s,1,1111.0,1111.0,CANADA
+1173,2023-12-16,Nina,Tablet,electronic s,3,1172.0,3516.0,usa
+1174,2023-08-12,Eve,Keyboard,electronic s,4,985.0,3940.0,CANADA
+1175,2023-03-06,Paul,Laptop,electronic s,3,1241.0,3723.0,CANADA
+1176,,Tina,Tablet,electronic s,1,1421.0,1421.0,usa
+1177,2023/02/15,Grace,Monitor,electronic s,5,1038.0,5190.0,usa
+1178,2023/09/06,Bob,Laptop,electronic s,4,1287.0,5148.0,CANADA
+1179,2023-01-13,Rachel,Tablet,electronic s,2,1333.0,2666.0,usa
+1180,2023-12-24,Hannah,Printer,electronic s,3,1102.0,3306.0,CANADA
+1181,01/09/2023,Mona,Laptop,electronic s,1,1378.0,1378.0,usa
+1182,2023-02-09,David,Monitor,electronic s,2,1074.0,2148.0,CANADA
+1183,2023-03-11,Karen,Laptop,electronic s,4,1304.0,5216.0,usa
+1184,2023/06/07,Frank,Tablet,electronic s,3,1065.0,3195.0,CANADA
+1185,,Charlie,Laptop,electronic s,,1299.0,,Canada
+1186,2023/05/14,Grace,Tablet,electronic s,1,1342.0,1342.0,usa
+1187,2023/10/30,Eve,Monitor,electronic s,5,1311.0,6555.0,CANADA
+1188,2023-04-02,Paul,Laptop,electronic s,2,1125.0,2250.0,CANADA
+1189,2023/11/22,Jack,Tablet,electronic s,3,1044.0,3132.0,usa
+1190,2023-08-17,Oscar,Phone,electronic s,1,1156.0,1156.0,usa
+1191,2023/03/02,Nina,Keyboard,electronic s,1,1360.0,1360.0,CANADA
+1192,2023-01-20,Karen,Tablet,electronic s,2,1256.0,2512.0,usa
+1193,2023-12-09,Frank,Laptop,electronic s,3,1393.0,4179.0,CANADA
+1194,,Tina,Monitor,electronic s,4,1216.0,4864.0,usa
+1195,2023/07/17,Hannah,Tablet,electronic s,3,1273.0,3819.0,CANADA
+1196,2023/05/04,Mona,Laptop,electronic s,2,1195.0,2390.0,usa
+1197,2023/09/25,Rachel,Keyboard,electronic s,1,1137.0,1137.0,CANADA
+1198,2023-10-25,Oscar,Tablet,electronic s,5,1178.0,5890.0,usa
+1199,2023-06-18,Karen,Laptop,electronic s,2,1266.0,2532.0,CANADA
+1200,2023/12/26,Nina,Printer,electronic s,1,1407.0,1407.0,usa
